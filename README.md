@@ -1,9 +1,13 @@
 # luucay
 
 🌜 I'm 17 and I always want to give the best service to my customers
+
 🏦 I'm a computing student who specializes in hardware and software.
+
 💬 Feel free to contact me on any of my social platforms!
+
 Discord: luucay_
+
 📚 History worked projects:
 
 ??/??/2020 ⚔ Narwell Network - A Minecraft Network based on PvP and PvE. (mc.narwell.net - Admin)

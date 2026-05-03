@@ -24,11 +24,11 @@ Discord: luucay_
 
 15/07/2022 ⚔ ProLatin Network - A Minecraft Network based on RPG, Roleplay and Minigames. (proyectolatino.online - Owner/Developer)
 
-17/03/2023 ⚔ PloverUHC Server - A Minecraft Network based on UHC and Meetup. (play.ploveruhc.com - Staff-Manager/Owner)
+17/03/2023 ⚔ PloverUHC Server - A Minecraft Network based on UHC and Meetup. (plover.gg or plover.us - Staff-Manager/Owner)
 
 10/04/2023 ⚔ PvPGym Network - A Minecraft Network based on ArenaPvP and UHC. (pvpgym.net - UHC-Mod)
 
-16/05/2024 ⚔ Azura Network - A Minecraft Network based on Roleplay. (play.azuramc.xyz - CEO)
+16/05/2024 ⚔ Azura Network - A Minecraft Network based on Roleplay. (play.azuramc.xyz - Founder & CEO)
 
 12/06/2025 ⚔ Diamos Network - A Minecraft Network based on Roleplay. (mc.diamos.net - Head-Developer)
 
